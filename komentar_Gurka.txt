@@ -1,0 +1,19 @@
+timogurka/MIP 
+(moj repozitar na githube)
+
+Pouité balíky:
+graphicx - pouil som ho preto, aby som mohol vloi obrázok do dokumentu
+booktabs - pouil som ho preto, aby som mohol vloi tabu¾ku do dokumentu
+
+ostatné balíky boli u nahodené v acm šablóne
+
+
+Pouité funkcie:
+Príkazy na definovanie štruktúry dokumentu a obsahu
+Pouitie zoznamov
+Vkladanie obrázkov
+Vkladanie tabuliek
+Tvorba vzorcov
+
+Bibliografia a citovanie pomocou nástroja BibTeX
+Poznámky pod èiarou a kríové odkazy
